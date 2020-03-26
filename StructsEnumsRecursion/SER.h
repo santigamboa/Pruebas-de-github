@@ -26,6 +26,8 @@ void mostrarDatosMes();
 //Perimite saber cuantos registros disponibles quedan para un mes en específico
 int espaciosDisponibles(int mes, int max); 
 
+//Recibe el número del mes e imprime el nombre del mes que corresponde a ese número
 void imprimirMes(int mes);
 
+//Verifica en qué meses hay registros disponibles
 void mesesDisponibles();
