@@ -1,0 +1,1 @@
+Si funciona como pienso, esta carpeta debería crearse sólo haciendo un commit de los archivos que contiene
